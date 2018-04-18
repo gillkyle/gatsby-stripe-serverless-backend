@@ -1,0 +1,8 @@
+# Environment/secret variables
+secrets.json
+
+# Dependency directories
+node_modules/
+
+# Serverless build
+.serverless
